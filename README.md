@@ -1,16 +1,13 @@
-## Hi there 👋
+Hi there 👋
 
-<!--
-**Aswin0526/Aswin0526** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I’m Aswin A, a Computer Science Engineering undergraduate at Sri Sairam Engineering College. I’m passionate about AI/ML, computer vision, full-stack development, and edge computing.
 
-Here are some ideas to get you started:
+I love building practical, impactful projects, from a portable fundus camera for retinal disease detection to voice-enabled retail assistants and cloud cost optimization tools.
+Skills: Python, C, Java, JavaScript, React.js, Node.js, Flask, OpenCV, MySQL, MongoDB, Docker, Linux
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🏆 Achievements:
+
+1) Smart India Hackathon 2024 Winner – Portable water testing kit
+2) EPICS in IEEE ’25 Top 20 Globally – Portable retinal diagnostic device
+3) Design Spark Challenge Winner – Unified digital platform for intercity commute
+4) IRC 2025 Finalist – Mars Rover Engineering
