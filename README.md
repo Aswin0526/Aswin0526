@@ -1,3 +1,5 @@
+<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90" />
+
 Hi there 👋
 
 Hi, I’m Aswin A, a Computer Science Engineering undergraduate at Sri Sairam Engineering College. I’m passionate about AI/ML, computer vision, full-stack development, and edge computing.
