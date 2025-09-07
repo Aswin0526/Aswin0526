@@ -47,4 +47,14 @@ Skills: Python, C, Java, JavaScript, React.js, Node.js, Flask, OpenCV, MySQL, Mo
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 
+## 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Aswin0526&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aswin0526&theme=tokyonight" />
+</p>
+
+---
+
+
 
