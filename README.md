@@ -1,13 +1,13 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Hey%20Everyone!&fontSize=50&fontColor=ffffff&fontAlignY=50&animation=twinkling&width=1000" style="width: 100%;" />
 
-Hi there 👋
+Hi there,
 
 Hi, I’m Aswin A, a Computer Science Engineering undergraduate at Sri Sairam Engineering College. I’m passionate about AI/ML, computer vision, full-stack development, and edge computing.
 
 I love building practical, impactful projects, from a portable fundus camera for retinal disease detection to voice-enabled retail assistants and cloud cost optimization tools.
 Skills: Python, C, Java, JavaScript, React.js, Node.js, Flask, OpenCV, MySQL, MongoDB, Docker, Linux
 
-🏆 Achievements:
+Achievements:
 
 1) Smart India Hackathon 2024 Winner – Portable water testing kit
 2) EPICS in IEEE ’25 Top 20 Globally – Portable retinal diagnostic device
@@ -46,13 +46,6 @@ Skills: Python, C, Java, JavaScript, React.js, Node.js, Flask, OpenCV, MySQL, Mo
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-
-## 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aswin0526&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aswin0526&theme=tokyonight" />
-</p>
 
 ---
 
